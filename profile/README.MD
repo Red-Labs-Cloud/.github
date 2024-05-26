@@ -24,6 +24,19 @@ The specific instructions for using this repository will depend on the resources
 - Import Scenarios: Import any pre-built scenarios or customize them to fit your training needs.
 - Start Training: Begin red team training exercises within the deployed cyber range environment.
 
+### Home Labs
+
+- Command and Control Infrastructure
+- Social Engineering LAB
+- Browser Exploitation LAB
+- Vulnerable Active Directory
+- WebApp Security LAB
+- Network Security LAB
+- Threat Intelligence
+- Telecom 4G LAB
+- Telecom 5G LAB
+
+
 ## Documentation
 - https://blog.redlabs.cloud/
 - https://docs.redlabs.cloud/
