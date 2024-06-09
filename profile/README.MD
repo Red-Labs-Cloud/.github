@@ -1,4 +1,4 @@
-# Command and Control Infrastructure
+# Red Labs Cyber Range
 
 This repository provides resources and tools for building and managing efficient cyber ranges specifically designed for red team training.
 
