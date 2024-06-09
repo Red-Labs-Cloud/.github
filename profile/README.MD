@@ -14,7 +14,7 @@ This repository can contain various resources depending on your specific setup a
 - Blue Team Tools: Tools and resources to simulate blue team activity within the cyber range, providing a more realistic training experience. (e.g., Security Information and Event Management (SIEM) logs, pre-configured detection rules)
 - Documentation: Documentation outlining best practices for building and managing red team cyber ranges.
 
-![RedLabs Cloud](https://cdn.redlabs.cloud/labs_logos/RedLabs.png "RedLabs Cloud")
+![RedLabs Cloud](profile/RedLabs.png "RedLabs Cloud")
 ## Getting Started
 The specific instructions for using this repository will depend on the resources included. However, here are some general steps to get started:
 
